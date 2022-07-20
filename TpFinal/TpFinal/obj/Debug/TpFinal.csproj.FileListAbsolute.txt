@@ -1,0 +1,22 @@
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\bin\Debug\TpFinal.exe.config
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\bin\Debug\TpFinal.exe
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\bin\Debug\TpFinal.pdb
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.csproj.AssemblyReference.cache
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.Form1.resources
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.Properties.Resources.resources
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.csproj.GenerateResource.cache
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.csproj.CoreCompileInputs.cache
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.exe
+C:\Users\Imag\Desktop\.Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.pdb
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\bin\Debug\TpFinal.exe.config
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\bin\Debug\TpFinal.exe
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\bin\Debug\TpFinal.pdb
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.csproj.AssemblyReference.cache
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.Form1.resources
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.Properties.Resources.resources
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.csproj.GenerateResource.cache
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.csproj.CoreCompileInputs.cache
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.exe
+C:\Users\Imag\Desktop\.Net\Desarrollo .Net\Insertar update delete\TpFinal\TpFinal\obj\Debug\TpFinal.pdb
